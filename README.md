@@ -7,3 +7,14 @@ MasterChef is a deep learning-powered (Transformer Architecture Based) applicati
 <p align="center">
   <img src="https://github.com/Hussainaquib/MasterChef/blob/main/data/images/2.png" alt="MasterChef">
 </p>
+
+### Results
+
+<p align="center">
+  <img src="https://github.com/Hussainaquib/MasterChef/blob/main/data/images/3.png" alt="Food Image">
+</p>
+<p align="center">
+  <img src="https://github.com/Hussainaquib/MasterChef/blob/main/data/images/4.png" alt="Recipe Generation">
+</p>
+
+
