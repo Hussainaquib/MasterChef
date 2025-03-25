@@ -23,4 +23,18 @@ MasterChef is a deep learning-powered (Transformer Architecture Based) applicati
   <img src="https://github.com/Hussainaquib/MasterChef/blob/main/data/images/5.png" alt="Transformer">
 </p>
 
+### How this Architecture works ❓ 
+
+1️⃣ Image → CNN Encoder (ResNet-101 + Conv Projection):
+Extracts spatial features and produces (x, y, z) output.
+
+2️⃣ Encoder output → Passed to Transformer Decoder’s Cross-Attention:
+Used as Key (K) and Value (V) in cross-attention.
+
+3️⃣ Decoder’s Multi-Head Cross-Attention:
+Matches decoder's queries with encoder's keys and values.
+
+4️⃣ Final Softmax Layer Outputs Probabilities:
+Decoder generates text/tokens conditioned on encoded image features
+
 
